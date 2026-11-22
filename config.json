@@ -1,0 +1,9 @@
+{
+  "token": "PASTE_YOUR_BOT_TOKEN_HERE",
+  "clientId": "PASTE_YOUR_APPLICATION_ID_HERE",
+  "embedColor": "#5865F2",
+  "hostRoleId": "",
+  "bonusRoles": {
+    "OPTIONAL_BOOSTER_ROLE_ID": 2
+  }
+}
